@@ -1,7 +1,7 @@
-sfp-plus-mod is an open hardware template for developing SFP+
-modules published by Lightside Instruments AS.
+stepper-stick is an open hardware board for driving 2-phase stepper motors
+published by Lightside Instruments AS.
 
-The initial release sfp-plus-mod-1.0 includes schematic and PCB
+The initial release stepper-stick-1.0 includes schematic and PCB
 design files for KiCAD.
 
 The project is published byC Lightside Instruments AS

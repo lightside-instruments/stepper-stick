@@ -1,5 +1,5 @@
-sfp-plus-mod (1.0) noble; urgency=medium
+stepper-stick (1.0) trixie; urgency=medium
 
   * Initial release.
 
- -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Wed, 29 Jan 2025 02:55:51 +0100
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Thu, 15 Oct 2026 02:55:00 +0200
